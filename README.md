@@ -1,2 +1,2 @@
 # Github
-Hello World of repositories
+Hello World of repositories.
